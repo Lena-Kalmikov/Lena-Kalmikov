@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Lena Kalmikov
-- 🌱 I’m currently learning Fullstack at Sela (Ramat Gan)
+- 👋 Hi, I’m Lena
+- 🌱 I’m currently studying Fullstack development at Sela (Ramat-Gan, Israel)
 - 📫 How to reach me: elenakalmikov@gmail.com
 
 <!---
