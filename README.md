@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lena
-- 🌱 I’m currently studying Fullstack Development at Sela College (Ramat-Gan, Israel)
+- 🌱 Junior Full-Stack Developer from Israel
 - 📫 Email: elenakalmikov@gmail.com
 - 🔗 Linkedin: https://www.linkedin.com/in/lena-kalmikov/ 
 
