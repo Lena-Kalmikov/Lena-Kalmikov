@@ -5,7 +5,7 @@
 - 📫 Email: elenakalmikov@gmail.com
 - 🔗 Linkedin: https://www.linkedin.com/in/lena-kalmikov
 
-<div align="center">
+<div align="left">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lena-kalmikov&show_icons=true&locale=en&layout=compact" alt="lena-kalmikov" />
 </div>
 
