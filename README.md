@@ -1,10 +1,14 @@
 
 
-- 👋 Hi, I’m Lena
-- 🌱 A passionate junior Full-Stack Developer from Israel
-- 📫 Email: elenakalmikov@gmail.com
-- 🔗 Linkedin: https://www.linkedin.com/in/lena-kalmikov
-- Stats: <div align="left">
+👋 Hi, I’m Lena
+<br/>
+🌱 A passionate junior Full-Stack Developer from Israel
+<br/>
+📫 Email: elenakalmikov@gmail.com
+<br/>
+🔗 Linkedin: https://www.linkedin.com/in/lena-kalmikov
+<br/>
+<div align="left">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lena-kalmikov&show_icons=true&locale=en&layout=compact" alt="lena-kalmikov" />
 </div>
 
