@@ -12,5 +12,5 @@ Hi 👋 my name is Lena Kalmikov
 <br/>
 🔗 Linkedin: https://www.linkedin.com/in/lena-kalmikov
 <br/>
-🖥️ Check out my portfolio: http://lena-kalmikov-portfolio-fs.web.app
+🖥️ Portfolio: http://lena-kalmikov-portfolio-fs.web.app
 
